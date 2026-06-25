@@ -21,7 +21,7 @@ st.set_page_config(
     page_title=Config.APP_TITLE,
     page_icon=Config.APP_ICON,
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="auto",
 )
 
 # ── Custom CSS ────────────────────────────────────────────────────────────────
@@ -443,7 +443,7 @@ Rules:
 - Answer Computer Science, Programming, AI, Cyber Security, Cloud Computing, Data Science, Full Stack Development, UI/UX, and Technology related questions.
 - answer user asking domain correctly.
 - AILM means Artificial intelligence and Machine Learning.
-- AIDA means artificial intelligence and Data Science.
+- AIDS means artificial intelligence and Data Science.
 - Give clear and accurate answers.
 - Use simple English.
 - Explain concepts in an easy-to-understand way.
