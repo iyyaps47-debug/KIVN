@@ -3,3 +3,4 @@ requests
 python-dotenv
 Pillow
 groq
+reportlab==4.2.2
